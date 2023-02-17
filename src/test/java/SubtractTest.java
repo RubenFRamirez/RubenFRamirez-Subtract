@@ -13,7 +13,7 @@ public class SubtractTest {
     /**
      * 1.1 minus 0.1 is 1.0.
      * (the third argument to the assertion represents the margin of error, because computers slightly misrepresent
-     * decimals)
+     * decimals )
      */
     @Test
     public void subTest1(){
